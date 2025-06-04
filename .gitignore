@@ -6,9 +6,10 @@
 .gradle/
 gradle/
 /build
-gradlew*
 /captures
 .externalNativeBuild
 .project
 .settings/
 .classpath
+# Ignore Gradle build output directory
+build
